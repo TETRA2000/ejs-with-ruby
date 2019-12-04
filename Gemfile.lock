@@ -6,7 +6,7 @@ GEM
     libv8 (6.7.288.46.1)
     mini_racer (0.2.0)
       libv8 (>= 6.3)
-    rack (2.0.5)
+    rack (2.0.7)
     sprockets (3.7.2)
       concurrent-ruby (~> 1.0)
       rack (> 1, < 3)
